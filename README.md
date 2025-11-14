@@ -81,7 +81,7 @@
 ### 服务端
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/jwmycz/UkeyLoginTools.git
 cd server
 python -m venv venv
 source venv/bin/activate
