@@ -1,7 +1,7 @@
 # 🚀 全国电力交易系统 UKey 自动登录辅助工具
 
 > 支持 27 省电力交易系统 + 瑞数 5 省 + 广西交易系统  
-> 客户端：wxPython + Flask，服务端：FastAPI（规划中）
+> 客户端：wxPython + Flask，服务端：Flask（FastAPI重构规划中）
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![wxPython](https://img.shields.io/badge/wxPython-GUI-green)
